@@ -1,0 +1,1 @@
+alter table books alter column id TYPE integer;
